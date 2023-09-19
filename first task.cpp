@@ -62,7 +62,6 @@ map<string, vector<Object> > groupByType(const vector<Object>& objects, int minC
 }
 
 int main() {
-	setlocale(LC_ALL, "Russian");
     vector<Object> objects;
 
     // ќжидание действий пользовател€
